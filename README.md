@@ -15,7 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mitesh1011&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
-<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/838b3e16-dcc9-4115-8717-c88e4dfb8443" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/838b3e16-dcc9-4115-8717-c88e4dfb8443" />
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4759647c-dd58-40b3-af76-adda053afbc9" />
 
 
 ---
