@@ -15,7 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mitesh1011&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
-https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png
+<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/838b3e16-dcc9-4115-8717-c88e4dfb8443" />
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=Mitesh1011&icon=0&color=0)](https://visitcount.itsvg.in)
