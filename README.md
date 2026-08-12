@@ -19,6 +19,7 @@
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4759647c-dd58-40b3-af76-adda053afbc9" />
 
+<img width="100" height="100" alt="image" src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" />
 
 ---
 [![](https://komarev.com/ghpvc/?username=Mitesh1011&icon=0&color=0)](https://visitcount.itsvg.in)
